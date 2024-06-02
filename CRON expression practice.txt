@@ -1,0 +1,5 @@
+Problem 1: Write a CRON expression that runs a job every five minutes.
+solution: 0/5 * * * *
+
+Problem 2: Write a CRON expression that runs a job every hour.
+solution: 0 * * * *

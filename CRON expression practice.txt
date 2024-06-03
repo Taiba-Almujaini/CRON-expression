@@ -121,6 +121,9 @@ solution: 0/5 * 1-10 1 *
 Problem 44: Write a CRON expression that runs a job at 4:30 PM on weekdays in July and August.
 solution: 30 16 * 7,8 1-5
 
+roblem 45: Write a CRON expression that runs a job at 12:00 AM on the first day of every quarter (January, April, July, and October).
+solution: 0 12 1 1,4,7,10 * 
+
 
 
 

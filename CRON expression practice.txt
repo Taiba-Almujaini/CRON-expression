@@ -49,6 +49,10 @@ solution: 0 * 1-15 * *
 Problem 18: Write a CRON expression that runs a job at 11:30 PM every Friday the 13th.
 solution: 30 23 13 * 5
 
+Problem 19: Write a CRON expression that runs a job every hour but only on even-numbered days of the month.
+solution: 0 * 2-30/2 * *
+
+
 
 
 

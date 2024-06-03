@@ -85,6 +85,9 @@ solution: 0 12 * 7 1-6
 Problem 31: Write a CRON expression that runs a job at 11:30 PM every Friday.
 solution: 30 23 * * 5
 
+Problem 32: Write a CRON expression that runs a job at 3:15 AM every day.
+solution: 15 3 * * *
+
 
 
 

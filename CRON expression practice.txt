@@ -109,7 +109,8 @@ solution: 0 23 * * *
 Problem 40: Write a CRON expression that runs a job every 30 minutes on the 15th and last day of every month.
 solution: */30 * 15-L * * 
 
-
+Problem 41: Write a CRON expression that runs a job every hour on the hour from 9:00 AM to 5:00 PM on weekdays
+solution: 0 9-17 * * 1-5
 
 
 

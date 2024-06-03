@@ -94,6 +94,9 @@ solution: 0 6-20 * 1-5
 Problem 34: Write a CRON expression that runs a job every 30 minutes on the 15th and 30th day of every month.
 solution: 0/30 * 15,30 * *
 
+Problem 35: Write a CRON expression that runs a job every 5 minutes on the 1st day of every month.
+solution: 0/5 * 1 * * 
+
 
 
 

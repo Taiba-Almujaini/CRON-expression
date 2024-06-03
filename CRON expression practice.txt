@@ -103,6 +103,10 @@ solution: 0/15 14-22 * * 6,0
 Problem 38: Write a CRON expression that runs a job every 10 minutes on weekdays between 8:00 AM and 3:00 PM.
 solution:0/10 8-15 * * 1-5
 
+Problem 39: Write a CRON expression that runs a job at 11:00 PM every day of the year.
+solution: 0 23 * * *
+
+
 
 
 

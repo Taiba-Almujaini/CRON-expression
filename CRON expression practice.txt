@@ -43,6 +43,10 @@ solution: 0/5 * * * 1-5 , */15 * * * 6,0
 Problem 15: Write a CRON expression that runs a job every 10 minutes but only between 9:00 AM and 6:00 PM on weekdays.
 solution: 0/10 9,18 * * 1-5
 
+Problem 16: Write a CRON expression that runs a job every hour during the first half of the month.
+solution: 0 * 1-15 * *
+
+
 
 
 

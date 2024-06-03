@@ -82,6 +82,10 @@ solution: 0 22 * 7-9 0
 Problem 30: Write a CRON expression that runs a job at 12:00 PM every day except Sunday in the month of July.
 solution: 0 12 * 7 1-6
 
+Problem 31: Write a CRON expression that runs a job at 11:30 PM every Friday.
+solution: 30 23 * * 5
+
+
 
 
 

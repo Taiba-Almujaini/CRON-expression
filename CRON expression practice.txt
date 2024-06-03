@@ -118,7 +118,8 @@ solution: 0 12 * * 1#1
 Problem 43: Write a CRON expression that runs a job every 5 minutes on the first 10 days of January.
 solution: 0/5 * 1-10 1 *
 
-
+Problem 44: Write a CRON expression that runs a job at 4:30 PM on weekdays in July and August.
+solution: 30 16 * 7,8 1-5
 
 
 

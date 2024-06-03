@@ -52,6 +52,8 @@ solution: 30 23 13 * 5
 Problem 19: Write a CRON expression that runs a job every hour but only on even-numbered days of the month.
 solution: 0 * 2-30/2 * *
 
+Problem 20: Write a CRON expression that runs a job every 5 minutes but only between 9:00 AM and 6:00 PM on weekends. 
+solution: 0/5 9-18 * * 1-5
 
 
 
